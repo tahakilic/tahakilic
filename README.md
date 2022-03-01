@@ -6,6 +6,6 @@
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/taha-kili%C3%A7-b54067178/"><img align="left" alt="tahakilic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/tahakilic/"><img align="left" alt="tahakilic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
