@@ -20,8 +20,8 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="Angular" width="40" height="40"/> </a>   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="40" height="40"/> </a>  
+ <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://www.uptime.eu/wp-content/uploads/2021/06/java-seeklogo.com_.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png" alt="Spring Framework" width="40" height="40"/> </a>  
 </p>
 <hr/>
 
